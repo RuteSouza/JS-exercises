@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #d4d4d4;
+}
+
+h1{
+  color: black;
+    font-family:sans-serif;
+}
+h2{
+  color:black;
+}
+input{
+  color: black;
+  background:whitesmoke;
+  font-weight: bold;
+}
+
+p{
+font-weight: bold;
+}
